@@ -3,7 +3,6 @@ terraform {
     bucket = "kushal2213"
     key = "test"
     region = "us-east-1"
-
   }
   required_providers {
     aws = {
